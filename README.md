@@ -1,5 +1,5 @@
 
-![Logo](assets/powerfox.png)
+![Logo](powerfox.png)
 
 # powerfox plugin for Homebridge
 
